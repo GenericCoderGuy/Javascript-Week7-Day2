@@ -1,0 +1,42 @@
+{
+    "todo": [
+        {
+            "title": "Go to store",
+            "description": "Buy stuff for home",
+            "tasks": {
+                "Buy Coach": "checked",
+                "Buy Lamp": "checked",
+                "Buy Desk": "checked",
+                "Return Pictures": "unchecked"
+            }
+        },
+        {
+            "title": "Volleyball practice",
+            "description": "Practice these exercises",
+            "tasks": {
+                "Tossing": "checked",
+                "Running": "unchecked",
+                "Jumping": "checked"
+            }
+        },
+        {
+            "title": "Drop off these packages",
+            "description": "Deliver these for aunt",
+            "tasks": {
+                "Purse": "checked",
+                "Letters": "checked"
+            }
+        },
+        {
+            "title": "Daily Routine",
+            "description": "Things to do when waking up",
+            "tasks": {
+                "Take out trash": "checked",
+                "Do laundry": "checked",
+                "Shower": "checked",
+                "Cook Food": "unchecked",
+                "Do homework": "unchecked"
+            }
+        }
+    ]
+}
